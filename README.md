@@ -1,1 +1,1 @@
-This is A program that can find primes number
+It's just a repository that I use for put my codes project.
