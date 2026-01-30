@@ -1,1 +1,1 @@
-It's just a repository that I use for put my codes project.
+this repo is field by my python projects.
